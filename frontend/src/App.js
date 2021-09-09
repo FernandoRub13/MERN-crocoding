@@ -1,9 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
+import FetchData from './components/FetchData';
 
 function App() {
   return (
-    <div className="App">MERN Practices</div>
+    <div className="App">
+      <FetchData></FetchData>
+    </div>
   );
 }
 
