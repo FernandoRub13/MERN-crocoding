@@ -1,67 +1,66 @@
 [
-    {
-        "id": 43544,
-        "name":"Fernando Rubio",
-        "description": "lorem ipsum",
-        "age": 20,
-        "email": "Fabiola.Vandervort@yahoo.com",
-        "YOB":2000
-    },
-    {
-        "id": 74799,
-        "name":"Laura Cortez",
-        "description": "lorem ipsum",
-        "age": 22,
-        "email": "Kirstin3@hotmail.com",
-        "YOB":1998
-    },
-    {
-        "id": 22884,
-        "name":"Julian Rivera",
-        "description": "lorem ipsum",
-        "age": 27,
-        "email": "Rebeka.Price6@hotmail.com",
-        "YOB":2093
-    },
-    {
-        "id": 27494,
-        "name":"Carlos Quintanilla",
-        "description": "lorem ipsum",
-        "age": 32,
-        "email": "Maurice_Hahn40@gmail.com",
-        "YOB":1988
-    },
-    {
-        "id": 75707,
-        "name":"Julia Santana",
-        "description": "lorem ipsum",
-        "age": 18,
-        "email": "Conor71@hotmail.com",
-        "YOB":2002
-    },
-    {
-        "id": 5555,
-        "name":"Pedro Campos",
-        "description": "lorem ipsum",
-        "age": 43,
-        "email": "Jonatan.Miller85@hotmail.com",
-        "YOB":1977
-    },
-    {
-        "id": 91676,
-        "name":"Luis Sánchez",
-        "description": "lorem ipsum",
-        "age": 34,
-        "email": "Raoul54@yahoo.com",
-        "YOB":1976
-    },
-    {
-        "id": 27407,
-        "name":"Jorge Ramos",
-        "description": "lorem ipsum",
-        "age": 30,
-        "email": "Selina.Homenick31@hotmail.com",
-        "YOB":1980
-        
-    }
+  {
+    "id": 43544,
+    "name": "Fernando Rubio",
+    "description": "lorem ipsum",
+    "age": 20,
+    "email": "Fabiola.Vandervort@yahoo.com",
+    "YOB": 2000
+  },
+  {
+    "id": 74799,
+    "name": "Laura Cortez",
+    "description": "lorem ipsum",
+    "age": 22,
+    "email": "Kirstin3@hotmail.com",
+    "YOB": 1998
+  },
+  {
+    "id": 22884,
+    "name": "Julian Rivera",
+    "description": "lorem ipsum",
+    "age": 27,
+    "email": "Rebeka.Price6@hotmail.com",
+    "YOB": 2093
+  },
+  {
+    "id": 27494,
+    "name": "Carlos Quintanilla",
+    "description": "lorem ipsum",
+    "age": 32,
+    "email": "Maurice_Hahn40@gmail.com",
+    "YOB": 1988
+  },
+  {
+    "id": 75707,
+    "name": "Julia Santana",
+    "description": "lorem ipsum",
+    "age": 18,
+    "email": "Conor71@hotmail.com",
+    "YOB": 2002
+  },
+  {
+    "id": 5555,
+    "name": "Pedro Campos",
+    "description": "lorem ipsum",
+    "age": 43,
+    "email": "Jonatan.Miller85@hotmail.com",
+    "YOB": 1977
+  },
+  {
+    "id": 91676,
+    "name": "Luis Sánchez",
+    "description": "lorem ipsum",
+    "age": 34,
+    "email": "Raoul54@yahoo.com",
+    "YOB": 1976
+  },
+  {
+    "id": 27407,
+    "name": "Jorge Ramos",
+    "description": "lorem ipsum",
+    "age": 30,
+    "email": "Selina.Homenick31@hotmail.com",
+    "YOB": 1980
+  }
 ]

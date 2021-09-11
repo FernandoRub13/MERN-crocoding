@@ -21,6 +21,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(__dirname + "/public"));
 app.use(express.json());
 app.use(cors());
+
+// AUTH METHODS
+app.use("/users", require("./routes/auth"));
+//AUTH METHODS END
+
 // CRUD Operations Contact Routes ************************************************************************************************************************
 
 //@path /contact
@@ -136,15 +141,15 @@ app.get("/:id", (req, res, next) => {
 }, (req, res) => {
     console.log("You have choosen the third element");
 });
-app.post("/", (req, res) => {
-    res.send(`Post request is sending on port: ${PORT}`);
-});
-app.put("/", (req, res) => {
-    res.send(`Put request is sending on port: ${PORT}`);
-});
-app.delete("/", (req, res) => {
-    res.send(`Delete request is sending on port: ${PORT}`);
-});
+// app.post("/", (req, res) => {
+//     res.send(`Post request is sending on port: ${PORT}`);
+// });
+// app.put("/", (req, res) => {
+//     res.send(`Put request is sending on port: ${PORT}`);
+// });
+// app.delete("/", (req, res) => {
+//     res.send(`Delete request is sending on port: ${PORT}`);
+// });
 
 
 app.listen(PORT, console.log(`Server running in ${process.env.NODE_ENV} on port: ${PORT}...`));
